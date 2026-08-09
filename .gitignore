@@ -30,4 +30,5 @@ pnpm-debug.log*
 Thumbs.db
 
 # Local uploads and generated files
-uploads/
+# uploads/!backend/uploads/
+!backend/uploads/**
