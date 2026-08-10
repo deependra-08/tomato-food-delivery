@@ -9,7 +9,7 @@ Tomato is a full-stack food delivery web application built with the MERN stack. 
 ## Features
 
 **Customer app**
-- Browse the menu by category, with live search
+- Browse the menu by category
 - User registration & login (JWT-based auth)
 - Add to cart, adjust quantities, view running total
 - Checkout via Stripe
