@@ -148,13 +148,6 @@ Remember to whitelist your backend host's IP (or `0.0.0.0/0` for platforms witho
 
 ---
 
-## Screenshots
-
-<!-- Add screenshots here, e.g. -->
-<!-- ![Home page](./docs/screenshots/home.png) -->
-
----
-
 ## License
 
 This project is open source and available for personal/educational use.
